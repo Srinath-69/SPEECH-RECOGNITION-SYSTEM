@@ -52,4 +52,4 @@ Healthcare: Physicians are able to dictate patient history and physical or medic
 
 *OUTPUT*:
 
-
+![Image](https://github.com/user-attachments/assets/7f36e960-23e5-4d5c-a186-08566a78735b)
